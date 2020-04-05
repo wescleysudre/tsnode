@@ -1,0 +1,8 @@
+{
+  "name": "tsnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wescleysudre/tsnode.git",
+  "author": "wescleysudre <wescley.sudre@sage.com>",
+  "license": "MIT"
+}
